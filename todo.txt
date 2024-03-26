@@ -1,0 +1,5 @@
+
+export HF_TOKEN=YOUR_HF_TOKEN
+
+pip install -q transformers[torch]
+pip install -q -U transformers==4.38.2 datasets==2.18.0 evaluate rouge_score
