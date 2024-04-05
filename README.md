@@ -1,6 +1,6 @@
 # BART-Large-CNN Fine-Tuning with Transformers
 
-This repository contains a Jupyter Notebook (`*.ipynb`) that demonstrates different fine-tuning methods for the 'bart-large-cnn' model using the Transformers library. The notebook explores full fine-tuning, fine-tuning only the last layers of the encoder and decoder, and LORA fine-tuning with various datasets, including preprocessed and raw datasets.
+This repository contains a Jupyter Notebook (`*.ipynb`) that demonstrates  last-layer fine-tuning methods for the 'bart-large-cnn' model using the Transformers library.
 
 ## Instructions
 
